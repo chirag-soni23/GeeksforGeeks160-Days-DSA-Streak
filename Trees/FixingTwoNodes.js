@@ -53,8 +53,7 @@ function buildSampleTree() {
   root.right = new Node(8)
   root.left.left = new Node(2)
   root.left.right = new Node(20)
-  root.right.left = new Node(7)
-  root.right.right = new Node(12)
+  
   return root
 }
 
