@@ -36,9 +36,13 @@
 </a> 
 </p>
 
-<h3 align="left">🏆 Certifications</h3>
+<h3 align="left">🏆 Certifications & Rewards</h3>
 <p align="center">
   <a href="https://www.geeksforgeeks.org/certificate/c8334e2cec592b71ac2118475477667b?utm_source=socials&utm_medium=cc_link" target="_blank">
     📜 View My GfG 160 Days of DSA Certificate
   </a>
+</p>
+
+<p align="center">
+  <img src="./assets/gfg160-tshirt.png" alt="GfG 160 Days T-shirt Reward" width="400"/>
 </p>
