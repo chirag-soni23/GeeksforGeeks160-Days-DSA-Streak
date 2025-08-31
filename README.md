@@ -44,5 +44,8 @@
 </p>
 
 <p align="center">
+  <img src="./assets/certificate.png" alt="GfG 160 Days Certificate" width="400"/>
+</p>
+<p align="center">
   <img src="./assets/gfg160-tshirt.png" alt="GfG 160 Days T-shirt Reward" width="400"/>
 </p>
